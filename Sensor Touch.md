@@ -21,7 +21,7 @@ Salida analógica:  valor de medición directo de la unidad de sensor.
 
 ## Desarrollo de la práctica
 <p>
-Se llevó a cabo la conexión del sensor Reed Switch en conjunto con un display LCD de manera que se pueda conocer el estado actual del componente al interactuar con un elemento que posea propiedades magnéticas, interactuando así con el circuito y alterando su comportamiento el cual se presenta en pantalla por medio de un mensaje de cambios.
+Se llevó a cabo la conexión del sensor Metal-Touch en conjunto con un display LCD de manera que se pueda conocer el estado actual del componente al interactuar con un objeto metálico o tal como es en este caso, la mano de una persona, interactuando así con el circuito y alterando su comportamiento el cual se presenta en pantalla por medio de un mensaje de cambios que indican si existe un contacto o no.
 </p>
 
 
@@ -41,18 +41,18 @@ D0 | D0
 A continuación se puede observar el circuito completo en el cual se encuentra conectado el módulo al Arduino, así como también se aprecia el imán que será utilizado para llevar a cabo las pruebas.
 </p>
 
-![Pruebas1](https://github.com/GenaroGonzalezz/Modulo-sensor-KY-025/blob/main/200281094_4189357484453623_5645018992284595790_n.jpg)
+![Pruebas2](https://github.com/GenaroGonzalezz/Modulo-Sensor-KY-036/blob/main/200387356_122633776583651_6252952313923911029_n%20(1).jpg)
 
 ## Imagen 1
 
-![Pruebas2](https://github.com/GenaroGonzalezz/Modulo-sensor-KY-025/blob/main/200087686_160587269438462_2896078833731179641_n.jpg)
+![Pruebas1](https://github.com/GenaroGonzalezz/Modulo-Sensor-KY-036/blob/main/205098584_544195530083189_2294472218594156980_n.jpg)
 
 ## Imagen 2
 <p>
 En la siguiente imagen es posible observar el cambio de estado del módulo durante su interacción con el imán.
 </p>
 
-![Pruebas3](https://github.com/GenaroGonzalezz/Modulo-sensor-KY-025/blob/main/202780707_242333810600301_9135937306506871131_n.jpg)
+![Pruebas3](https://github.com/GenaroGonzalezz/Modulo-Sensor-KY-036/blob/main/201459053_857633305106726_3694770651859182540_n.jpg)
 
 ## Código
 ```
